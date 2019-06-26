@@ -5,6 +5,8 @@ date: "2019-06-23"
 
 Great Gatsby Blog App
 
+![Wheat](./wheat.jpg)
+
 ## Topics Covered
 
 1. Gatsby
